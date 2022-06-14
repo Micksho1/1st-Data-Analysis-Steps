@@ -1,25 +1,25 @@
-**#Project Name : 1st-Data-Analysis-Steps**
+# Project Name : 1st-Data-Analysis-Step
 
 
 ----
-**#Project Objectives : Problem Statements**
+# Project Objectives : Problem Statements
 
 
 ------
-**#Data Sourcing**
-
-
-
-
-------
-**#Data Transformation**
-
+# Data Sourcing
 
 
 
 
 ------
-**#Findings and Recommendations**
+# Data Transformation
+
+
+
+
+
+------
+# Findings and Recommendations
 
 
 
